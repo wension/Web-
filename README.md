@@ -1,2 +1,2 @@
 # WebPerfInAction
-> 《Web Performance In Action》一书翻译翻译
+> 《Web Performance In Action》一书翻译
